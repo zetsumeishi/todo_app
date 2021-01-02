@@ -1,0 +1,36 @@
+- model: task.task
+  pk: 1
+  fields:
+    title: Lorem ipsum
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sagittis ipsum vel lectus tempus, nec dignissim elit tempus. Proin accumsan.
+    status: todo
+- model: task.task
+  pk: 2
+  fields:
+    title: Lorem ipsum
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sagittis ipsum vel lectus tempus, nec dignissim elit tempus. Proin accumsan.
+    status: in progress
+- model: task.task
+  pk: 3
+  fields:
+    title: Lorem ipsum
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sagittis ipsum vel lectus tempus, nec dignissim elit tempus. Proin accumsan.
+    status: in progress
+- model: task.task
+  pk: 4
+  fields:
+    title: Lorem ipsum
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sagittis ipsum vel lectus tempus, nec dignissim elit tempus. Proin accumsan.
+    status: done
+- model: task.task
+  pk: 5
+  fields:
+    title: Lorem ipsum
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sagittis ipsum vel lectus tempus, nec dignissim elit tempus. Proin accumsan.
+    status: todo
+- model: task.task
+  pk: 6
+  fields:
+    title: Lorem ipsum
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sagittis ipsum vel lectus tempus, nec dignissim elit tempus. Proin accumsan.
+    status: done
